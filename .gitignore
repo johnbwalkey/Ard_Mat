@@ -1,0 +1,19 @@
+# ---------- Arduino ----------
+*.hex
+*.elf
+
+# ---------- MATLAB ----------
+*.asv
+*.autosave
+*.m~
+slprj/
+*.mex*
+*.mat
+
+# ---------- Data (don’t back up raw data) ----------
+data/raw/
+
+# ---------- OS / Editor ----------
+.DS_Store
+Thumbs.db
+.vscode/
