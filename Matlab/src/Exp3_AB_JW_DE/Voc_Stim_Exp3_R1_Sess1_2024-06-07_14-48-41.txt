@@ -1,0 +1,25 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Exp 3 Log File - John Walkey and David Euston
+% The log file columns can be read as the following:
+% Time, Event Type
+%
+% Event Types:    1 -- Session Start
+%                 2 -- Session End
+%                 5 -- Tone-Light Sync Pulse On
+%                 6 -- Tone-Light Sync Pulse Off
+%                10 -- Cue light on A
+%                11 -- Cue light off A
+%                15 -- Cue light on  B
+%                16 -- Cue light off B
+%                20 -- Poke Onset A
+%                21 -- Poke Offset A
+%                25 -- Poke Onset B
+%                26 -- Poke Offset B
+%                30 -- Stim Onset
+%                40 -- Trial Timeout
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% rat: 1
+% sess: 1
+% ntrials: 20
+% date and start time: 2024-06-07_14-48-41
+% experimenter: JW

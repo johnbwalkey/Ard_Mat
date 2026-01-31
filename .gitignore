@@ -17,3 +17,8 @@ data/raw/
 .DS_Store
 Thumbs.db
 .vscode/
+
+ # ---------- Audio Files ----------
+ 
+*.wav
+Matlab/src/*.wav
