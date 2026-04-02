@@ -1,6 +1,6 @@
 //************************Arduino Code ******************************
 //This example code was used on the Forcetronics YouTube Channel to demonstrate how to
-
+// https://www.youtube.com/watch?v=Pgn2zz_IApE
 //make an inverter or not gate using an NPN and PNP transistor. This code is open for
 //anybody to use or modify
 
